@@ -1,0 +1,37 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>icon.jpg</file>
+    <file>退出.png</file>
+    <file>code.jpg</file>
+    <file>images/退出.png</file>
+    <file>images/三合一温控器.png</file>
+    <file>images/温控器.png</file>
+    <file>loobo.qrc</file>
+    <file>images/微信图片_202202161618552.png</file>
+    <file>images/微信图片_20220216161855.png</file>
+    <file>images/微信图片_202202161618551.png</file>
+    <file>images/chaxun.png</file>
+    <file>images/系统初始化.png</file>
+    <file>images/关于.png</file>
+    <file>images/初始化.png</file>
+    <file>images/新建.png</file>
+    <file>images/新建窗口.png</file>
+    <file>images/电加热3.png</file>
+    <file>images/yingjian.png</file>
+    <file>images/pinter.png</file>
+    <file>images/管路管理.png</file>
+    <file>images/开始.png</file>
+    <file>images/login1.png</file>
+    <file>images/yunx.png</file>
+    <file>images/setting.png</file>
+    <file>images/设置.png</file>
+    <file>images/chushi.png</file>
+    <file>images/help.png</file>
+    <file>images/heat.png</file>
+    <file>images/begin.png</file>
+    <file>images/clear.png</file>
+    <file>images/edit.png</file>
+    <file>images/屏幕截图 2021-03-20 081356.png</file>
+    <file>images/微信图片_20220216112226.png</file>
+  </qresource>
+</RCC>
